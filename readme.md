@@ -81,7 +81,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
-
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -113,6 +113,6 @@
 </p>
 
 <p> 
-    <a href="https://github.com/aerbet"><img alt="aerbet Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aerbet&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
+    <a href="https://github.com/aerbet"><img alt="aerbet Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aerbet&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="215px" width="49.5%"/></a>
     <a href="https://github.com/aerbet"><img alt="aerbet Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aerbet&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
