@@ -58,7 +58,7 @@
 
  😼 &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ae.270718@gmail.com<br/><br/>
- 💬 &emsp; Text me [here](https://t.me/aerbet)
+ 💬 &emsp; Text me [here](https://t.me/airelt)
 </p>
 <br/>
 <br/>
