@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a frontend developer from <b>Kyrgyzstan</b> 」
+    「 I am a developer from <b>Kyrgyzstan</b> 」
     <br>
     <br>
   </samp>
