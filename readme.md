@@ -37,7 +37,7 @@
  <a href="https://www.linkedin.com/in/erbol-zhaparov-873592298/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aerbet"/>
  </a>
-<a href="https://t.me/aerbet" target="_blank">
+<a href="https://t.me/eintern07" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="aerbet"/>
  </a>
  <!-- <a href="https://instagram.com/av4n" target="_blank">
